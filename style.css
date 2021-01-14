@@ -1,0 +1,60 @@
+#mainheadline {
+    color: rgb(12, 7, 20);
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+}
+
+#unlist {
+    color: rgb(156, 180, 18);
+    border: double rgb(0, 0, 0) 5px;
+}
+
+#numlist {
+    color: rgb(7, 79, 82);
+    word-spacing: 10px;
+}
+
+.listitems {
+    color: rgb(236, 148, 15);
+    border: double rgb(250, 10, 10) 5px;
+}
+
+li {
+    color: rgb(45, 5, 109);
+    word-spacing: 10px;
+}
+
+.secondheadline {
+    color: rgb(58, 16, 136);
+    font-size: 40px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+.mainblock {
+    background-color: rgb(160, 165, 160);
+    text-align: left;   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.subblock {
+    background-color: rgb(241, 244, 255);
+    text-align: right;
+    border: double rgb(255, 253, 253) 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+ p {
+    background-color: rgb(202, 204, 226);
+    text-align: center;
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }

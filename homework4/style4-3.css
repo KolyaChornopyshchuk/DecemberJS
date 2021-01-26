@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.header {
+  width: 730px;
+  height: 150px;
+  background-color: rgb(167, 221, 185);
+  border: 5px solid black;
+  margin: 10px;
+  box-sizing: border-box;
+  }
+  .menu {
+  width: 160px;
+  height: 500px;
+  background-color: pink;
+  margin: 10px;
+  border: 5px solid black;
+  box-sizing: border-box;
+  }
+  .post {
+  width: 575px;
+  height: 240px;
+  background-color: skyblue;
+  margin: 10px;
+  border: 5px solid black;
+  box-sizing: border-box; 
+  }
+  .footer {
+  width: 730px;
+  height: 150px;
+  background-color: rgb(167, 221, 185);
+  border: 5px solid black;
+  margin: 10px;
+  box-sizing: border-box;
+  } 
+  .main-block {
+      box-sizing: border-box;
+      width: 800px;
+      height: 1000px;      
+  }
+  .second-box {
+  display: flex;
+  }
+  .third-box {
+  display: flex;
+  flex-flow: row wrap;
+  }
+  .container {
+  padding-right: 0;
+  padding-left: 0;
+  }

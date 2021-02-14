@@ -13,7 +13,7 @@ model : 'Lanos',
 producer : 'Daewoo',
 tankVolume : 1.3,
 horsePower : 70, 
-image : 'https://lh3.googleusercontent.com/proxy/w3mR9hyFFnHNRZCdqdGG4JDfHxWJCM-aGqph_XhjFjhzon86QQ2f-Z_uj3NS7UtHDyDj4AsZ5OPs-hRvTDe9TQsWaD5DQIXIWw'
+image : 'https://lanos-club.org.ua/wp-content/uploads/2017/11/x17052016.jpg.pagespeed.ic_.987NotpPTZ.jpg'
 }, 
 
 {id : 'd', 
@@ -29,7 +29,7 @@ model : 'Explorer',
 producer : 'Ford',
 tankVolume : 4.0,
 horsePower : 165, 
-image : 'https://lh3.googleusercontent.com/proxy/TnG8bKwIDU-qeyFhVhN_-iAtNKbf1ckc-Xf_89sLWhzRv_OZdYT-TzetAO6g-dJejD0bLl_A90Io4YWlAdkHRbt6SKTcr_3WPfyet5OcXqFL1XSwKFIX7ZdXkK6342mldIoqbVQgC7cSJpSn'
+image : 'https://roadres.com/images/top/ford/explorer-6.jpg'
 }, 
 
 {id : 'jpn', 
@@ -117,7 +117,7 @@ model : 'Sorento',
 producer : 'KIA',
 tankVolume : 2.2,
 horsePower : 202, 
-image : 'https://lh3.googleusercontent.com/proxy/GGA4XLlifKSDgSvXlkhXWrCb5K-xIkmV8jFHbpJliJ4HJfTjyys0Tj-GMZuE5KE9HDosH1173XK5-ZuMV9FVNUfYwl4'
+image : 'https://lh3.googleusercontent.com/proxy/SD7jPHQObihhT9xTY3k065W9HtxtCZP5WX2DG5pIVQXwfOoEnHt2F-P7mKGgLUAIV3HaDQIcWmz47RDGqAnQp556BGE'
 }
 
 ]
@@ -133,7 +133,6 @@ img.src = `${product.image}`;
 container.appendChild(h);
 container.appendChild(h2);
 container.appendChild(img);
-
 
 };
 

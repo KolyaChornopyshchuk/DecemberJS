@@ -44,7 +44,7 @@ image : 'https://avto-russia.ru/autos/acura/photo/acura_mdx_1.jpg'
 model : 'Durando',
 producer : 'Dodge',
 tankVolume : 6.2,
-horsePower : 720, 
+horsePower : 420, 
 image : 'https://pictures.dealer.com/m/midwaydodgeiicllc/0749/8cb35d2dc19f9b555eff75c3c8e17f57x.jpg?impolicy=downsize&w=568'
 }, 
 

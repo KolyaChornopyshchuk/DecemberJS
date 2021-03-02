@@ -1063,14 +1063,9 @@
 // 34.*** за допомогою fetch (як в прикладі) отримати від jsonplaceholder всі users. - хз як це робити
 //За допомогою document.createElement вивести їх в браузер. 
 //Помістити кожен окремий об'єкт в блок, при цьому кожен внутрішній об'єкт в свій блок (блок в блоці).
-//let users = [];
-//let promise =  fetch ('https://jsonplaceholder.typicode.com/users');
-//promise.then(value => {
-//	console.log(value);
-//	return value.json();
-//}) .then(value => {
-//	console.log(value);
-//});
+
+
+
 //*** за допомогою fetch (як в прикладі) отримати від jsonplaceholder всі posts. 
 //За допомогою document.createElement вивести їх в браузер.
 // Помістити кожен окремий об'єкт в блок, при цьому кожен внутрішній об'єкт(якщо він існує) в свій блок (блок в блоці).
